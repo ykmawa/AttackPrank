@@ -124,5 +124,6 @@ def startDos():
 
 loadTkinter()
 placeBtnAndLabel()
+
 # 设置窗口主循环，但是设置和不设置没有任何区别 :/
 window.mainloop()
